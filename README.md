@@ -1,4 +1,3 @@
-# BEVM-NODE
 
 <h1 align="center">BEVM</h1>
 
